@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="wireless-devices-to-make-your-life.html"}
 if(x=="2"){xxx="5-developing-technologies-that-are.html"}
 if(x=="3"){xxx="what-are-challenges-of-machine-learning.html"}
-if(x=="4"){xxx="the-main-functions-of-computer-memory.html"}a_to_ve[i].href="https://www.kupaslink.me/2018/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="the-main-functions-of-computer-memory.html"}a_to_ve[i].href="https://www.kupaslink.blogspot.com/2018/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
